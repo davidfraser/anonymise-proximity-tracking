@@ -9,5 +9,5 @@ To use, with Python 3:
 * `pip install -r requirements.txt`
 * `jupyter-lab`
 
-Or simply view [map-scrambling.ipynb][map-scrambling.ipynb] on github.
+Or simply view [map-scrambling.ipynb](map-scrambling.ipynb) on github.
 
